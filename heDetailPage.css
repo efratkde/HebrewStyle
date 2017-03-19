@@ -1,5 +1,12 @@
 label {
   color:red;
 }
-$('.fieldarea-caption').css({" direction" : "rtl", "float" : "right" });
-$('.fieldarea-field').css({"text-align" : "right"  });
+
+.fieldarea-caption { 
+   direction : rtl; 
+   float : right;
+}
+
+.fieldarea-field { 
+  text-align : right;
+}
