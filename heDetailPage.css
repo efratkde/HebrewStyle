@@ -1,4 +1,6 @@
-
+label{
+ color:red;  
+}
 .fieldarea-caption { 
    direction : rtl; 
    float : right;
