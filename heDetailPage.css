@@ -7,6 +7,7 @@
   text-align : right !important;
 }
 
-textarea, option {
+textarea, option, select {
 direction: rtl !important;
 }
+
