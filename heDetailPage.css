@@ -3,7 +3,7 @@
 }
 
 
-.fieldarea-field { 
+.fieldarea-field , .title-container { 
   text-align : right !important;
 }
 
