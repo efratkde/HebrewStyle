@@ -1,13 +1,16 @@
-.fieldarea-caption {   
+.fieldarea-caption , .text , .icon {   
    float : right !important;
 }
 
+.trigger{
+float : left !important;
+}
 
-.fieldarea-field , .title-container { 
+
+.fieldarea-field  { 
   text-align : right !important;
 }
 
 textarea, option, select {
 direction: rtl !important;
 }
-
