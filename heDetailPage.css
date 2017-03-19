@@ -4,9 +4,9 @@
 
 
 .fieldarea-field { 
-  text-align : right !important;;
+  text-align : right !important;
 }
 
 textarea select {
-direction: rtl;
+direction: rtl !important;
 }
