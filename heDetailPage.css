@@ -1,12 +1,12 @@
-label{
- color:blue;  
+.fieldarea-caption {   
+   float : right !important;
 }
 
-.fieldarea-caption { 
-   direction : rtl; 
-   float : right;
-}
 
 .fieldarea-field { 
-  text-align : right;
+  text-align : right !important;;
+}
+
+textarea select {
+direction: rtl;
 }
